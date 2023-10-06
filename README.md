@@ -1,4 +1,3 @@
-# harjoitus
 ## Saku Sarkki web tehtävät
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
@@ -13,10 +12,14 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ## Columbian symbolism
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
-[Search for it](www.google.com)
-You're **really, really** [going to want to see this] (www.dailykitten.com)
+
+[Search for it](https://www.google.com).
+You're **really, really** [going to want to see this](https://www.dailykitten.com)
+
 [A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 [Black cat][Black]
+
 [Orange cat][Orange]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
@@ -41,7 +44,7 @@ I read this interesting quote the other day:
    * A professor 
   * Has no hair 
   * Often wears green
-* Castafiore, 
+* Castafiore 
   * An opera singer 
   * Has white hair 
   * Is possibly mentally unwell
